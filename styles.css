@@ -26,8 +26,12 @@ h2 {
     color: #48BB78;
     margin: 0;
 }
-
 h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #48BB78;
+}
+
+h4 {
     color: #718096;
     margin: 0;
 }
@@ -66,14 +70,9 @@ p {
 #footer {
     color: #FFFFFF;
 }
-#About {
+.About {
     color:  #000000;
-}
-#About-p {
     background-color: #E2E8F0;
+    
 }
-.aside-headings {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:  #48BB78;
 
-}
